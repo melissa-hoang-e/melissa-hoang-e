@@ -24,4 +24,4 @@
 
 ## Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](#https://drive.google.com/file/d/1z3HRxcjU5o93jCVpFtPXoDdrGAaesfUx/view?usp=sharing)
