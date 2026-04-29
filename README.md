@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-* In 2023, I graduated with a dual degree in Computer Science and Accounting 🖥️ at the University of Calgary
+* In 2023, I graduated with a BSc in Computer Science and a BCom in Accounting 🖥️ at the University of Calgary
 * I'm currently a MSCS student at Georgia Tech learning about advanced AI/ML technologies (LLMs, RAG, Reinforcement Learning)
 * I'm seeking to grow in my knowledge of machine learning engineering, network with like-minded people, and build amazing projects! 🛠️
 * I enjoy programming, exploring international cities and museums, taking Pilates and dance classes, and learning new things about what I love! 🍄
