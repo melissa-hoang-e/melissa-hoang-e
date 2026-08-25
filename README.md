@@ -1,13 +1,13 @@
 # Melissa Hoang
 
-**ML Engineer · AI Consultant · Georgia Tech MSCS (Machine Learning)**  
+**AI Engineer · AI Consultant · Georgia Tech MSCS (Machine Learning)**  
 Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/melissa-e-hoang/) · [Resume](https://drive.google.com/file/d/1gnkOVIZDtc84tv9x1ou3cXuSpUc-bJlW/view?usp=sharing)
 
 ---
 
 I build production AI systems — RAG pipelines, LLM applications, and applied ML — 
 currently as an AI & Data Consultant at Deloitte and an M.S. student at Georgia Tech 
-(GPA: 4.0, specialization: Machine Learning).
+(specialization: Machine Learning).
 
 My focus is on shipping ML that works in the real world: reducing compliance review
 time by 40% with LLM pipelines at scale, achieving 91% accuracy in real-time gait
