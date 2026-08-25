@@ -1,7 +1,7 @@
 # Melissa Hoang
 
-**AI Engineer · AI Consultant · Georgia Tech MSCS (Machine Learning)**  
-Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/melissa-e-hoang/) 
+**Forward-Deployed AI Engineer · Strategic AI Consultant · Georgia Tech MSCS (Machine Learning)**  
+📍Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/melissa-e-hoang/) · [Email](melissa.hoang.e@gmail.com)
 
 ---
 
